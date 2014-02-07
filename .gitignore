@@ -1,0 +1,7 @@
+.dev/
+.tmp/
+*.iml
+bower_components/
+node_modules/
+/test/coverage/
+!.gitignore
