@@ -1,0 +1,45 @@
+{
+    "name": "angular-strap-datepicker",
+    "description": "AngularStrapDatepicker - Datepicker directive based on angular-strap",
+    "version": "1.0.0",
+    "keywords": [
+        "angular",
+        "datepicker",
+        "bootstrap"
+    ],
+    "homepage": "https://github.com/dpellier/angular-strap-datepicker",
+    "bugs": "https://github.com/dpellier/angular-strap-datepicker/issues",
+    "author": {
+        "name": "Damien Pellier",
+        "url": "https://github.com/dpellier"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dpellier/angular-strap-datepicker.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ],
+    "main": [
+        "dist/angular-strap.min.js",
+        "dist/angular-strap.tpl.min.js"
+    ],
+    "ignore": [
+        "docs",
+        "test",
+        "CONTRIBUTING.md"
+    ],
+    "dependencies": {
+        "angular": "~1.2.10",
+        "bootstrap": "~3.1.0"
+    },
+    "devDependencies": {
+        "angular-animate": "~1.2.10",
+        "angular-i18n": "~1.2.10",
+        "angular-mocks": "~1.2.10",
+        "angular-sanitize": "~1.2.10",
+        "jquery": "~2.1.0"
+    }
+}
